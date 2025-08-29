@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "minecraft:pumpkin_seeds"
+    "item": "minecraft:wheat"
   },
-  "result": "kubejs:zinc_rich_dust",
+  "result": "kubejs:wheat_dust",
   "experience": 0.1,
   "cookingtime": 100
 }
