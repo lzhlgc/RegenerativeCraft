@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:kelp_dust"
+    }
+  ],
+"results": [
+    {
+      "count": 9,
+      "item": "create:zinc_nugget"
+    },
+    {
+      "chance": 0.5,
+      "count": 4,
+      "item": "create:copper_nugget"
+    }
+  ]
+}
