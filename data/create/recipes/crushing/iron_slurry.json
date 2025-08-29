@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:basalt"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "chance": 0.5,
+      "item": "kubejs:iron_slurry"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    },
+    {
+      "item": "kubejs:iron_slurry"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:raw_iron"
+    }
+  ]
+}
