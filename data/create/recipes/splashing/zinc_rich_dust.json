@@ -2,7 +2,7 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "item": "kubejs:pumpkin_seeds_dust"
+      "item": "kubejs:zinc_rich_dust"
     }
   ],
 "results": [
@@ -18,4 +18,5 @@
     }
   ]
 }
+
 
