@@ -2,18 +2,20 @@
   "type": "create:splashing",
   "ingredients": [
     {
-      "item": "kubejs:kelp_dust"
+      "item": "kubejs:pumpkin_seeds_dust"
     }
   ],
 "results": [
     {
+      "chance": 0.5,
       "count": 9,
       "item": "create:zinc_nugget"
     },
     {
-      "chance": 0.5,
+      "chance": 0.25,
       "count": 4,
       "item": "create:copper_nugget"
     }
   ]
 }
+
