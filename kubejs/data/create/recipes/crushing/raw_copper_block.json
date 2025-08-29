@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/raw_copper"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "minecraft:raw_copper_block"
+    },
+    {
+      "chance": 0.5,
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "create:crushed_raw_copper"
+    }
+  ]
+}
