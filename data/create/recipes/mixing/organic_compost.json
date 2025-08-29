@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:wheat_dust"
+    },
+    {
+      "item": "kubejs:zinc_rich_dust"
+    }
+    {
+      "item": "minecraft:beetroot"
+    }
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "farmersdelight:organic_compost"
+    }
+  ]
+}
