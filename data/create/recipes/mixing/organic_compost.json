@@ -3,10 +3,10 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "kubejs:wheat_dust"
+      "item": "kubejs:wheat_ash"
     },
     {
-      "item": "kubejs:zinc_rich_dust"
+      "item": "kubejs:zinc_rich_ash"
     },
     {
       "item": "minecraft:beetroot"
