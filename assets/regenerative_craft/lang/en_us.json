@@ -1,5 +1,10 @@
 {
     "item.kubejs.zinc_rich_ash": "Zinc Rich Ash",
     "item.kubejs.wheat_ash": "Wheat Ash",
-    "item.kubejs.iron_slurry": "Iron Slurry"
+    "item.kubejs.iron_slurry": "Iron Slurry",
+    "fluid.kubejs.common_ink": "Common ink",
+    "fluid.kubejs.uncommon_ink": "Uncommon ink",
+    "fluid.kubejs.rare_ink": "Rare ink",
+    "fluid.kubejs.epic_ink": "Epic ink",
+    "fluid.kubejs.legendary_ink": "Legendary ink"
 }
