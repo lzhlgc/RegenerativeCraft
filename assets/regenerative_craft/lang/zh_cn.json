@@ -2,4 +2,9 @@
     "item.kubejs.zinc_rich_ash": "富锌灰烬",
     "item.kubejs.wheat_ash": "小麦灰烬",
     "item.kubejs.iron_slurry": "含铁沉浆"
+    "fluid.kubejs.common_ink": "平凡墨水",
+    "fluid.kubejs.uncommon_ink": "卓越墨水",
+    "fluid.kubejs.rare_ink": "高级墨水",
+    "fluid.kubejs.epic_ink": "史诗墨水",
+    "fluid.kubejs.legendary_ink": "传说墨水"
 }
