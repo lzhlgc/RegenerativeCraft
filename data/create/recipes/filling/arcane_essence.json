@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "amount": 50,
+      "fluid": "kubejs:rare_ink"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  ]
+}

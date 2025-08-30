@@ -1,0 +1,63 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "create:sleepers"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "item": "irons_spellbooks:blank_rune"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_rune"
+        },
+        {
+          "amount": 50,
+          "fluid": "kubejs:epic_ink"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_rune"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_rune"
+        },
+        {
+          "item": "irons_spellbooks:arcane_essence"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_rune"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:incomplete_rune"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:incomplete_rune"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "kubejs:incomplete_rune"
+  }
+}
