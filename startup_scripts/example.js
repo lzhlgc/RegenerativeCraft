@@ -1,6 +1,5 @@
-// priority: 0
 
-// Visit the wiki for more info - https://kubejs.com/
+StartupEvents.registry('item', event => {
+  event.create('incomplete_rune').texture('regenerative_craft:item/incomplete_rune').maxStackSize(1)
 
-console.info('Hello, World! (Loaded startup scripts)')
-
+})
