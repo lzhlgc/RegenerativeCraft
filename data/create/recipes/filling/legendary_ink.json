@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 250,
+      "fluid": "kubejs:legendary_ink"
+    }
+  ],
+  "results": [
+    {
+      "item": "irons_spellbooks:legendary_ink"
+    }
+  ]
+}

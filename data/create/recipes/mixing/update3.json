@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "amount": 1000,
+      "fluid": "kubejs:rare_ink"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "fluid": "kubejs:epic_ink"
+    }
+  ]
+}
